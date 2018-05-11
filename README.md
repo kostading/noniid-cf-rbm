@@ -5,7 +5,7 @@ Read the paper at:
 
 http://proceedings.mlr.press/v28/georgiev13.html
 
-The code is implemented on top of the jaRBM_v1.0 open source project, which is also provided in the attached archive.
+The code is implemented on top of the jaRBM_v1.0 open source project, which needs to be downloaded separately.
 
 Some guidelines:
 
